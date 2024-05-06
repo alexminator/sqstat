@@ -1,6 +1,6 @@
 <h1 align="center">
   <img alt="SqStat logo" src="https://github.com/alexminator/sqstat/blob/main/squid.png" width="300px"/><br/>
-  ${\color{#ff0000}S}{\color{#ff6e00}m}{\color{#ffdd00}a}{\color{#b2ff00}r}{\color{#48ff00}t}\ {\color{#00ff26}M}{\color{#00ff95}u}{\color{#00fbff}s}{\color{#0091ff}i}{\color{#0022ff}c}\ {\color{#4d00ff}L}{\color{#b700ff}a}{\color{#ff00d9}m}{\color{#ff006a}p} $
+  ${\color{#ff0000}S}{\color{#ff6e00}q}{\color{#ffdd00}S}{\color{#b2ff00}t}{\color{#48ff00}a}{\color{#48ff00}t}$
 </h1>
 <h4 align="center">
   <a href="https://github.com/alexminator/SML/blob/master/README_es.md">
