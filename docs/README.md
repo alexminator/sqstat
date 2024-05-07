@@ -1,6 +1,6 @@
 <h1 align="center">
   <img alt="SqStat logo" src="https://github.com/alexminator/sqstat/blob/main/squid.png" width="300px"/><br/>
-  ${\color{#ff0000}Sq}{\color{#ffdd00}Stat}\ {\color{#b2ff00}New} \ {\color{#b2ff00}look$
+  ${\color{#ff0000}Sq}{\color{#ffdd00}Stat}\ {\color{#b2ff00}New}\ {\color{#b2ff00}look}$
 </h1>
 
     
