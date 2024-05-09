@@ -1,28 +1,31 @@
-    About SqStat
-    ============
+<h1 align="center">
+  <img alt="SqStat logo" src="https://github.com/alexminator/sqstat/blob/main/squid.png" width="300px"/><br/>
+  ${\color{#ff0000}Sq}{\color{#ffdd00}Stat}\ {\color{#b2ff00}New}\ {\color{#b2ff00}look}$
+</h1>
+
+    
+<!-- ABOUT SqStat -->
+## About SqStat     
 
 SqStat is a script which allows to look through active squid users
 connections. It use cachemgr protocol to get information from squid
 proxy server. Script homepage is http://samm.kiev.ua/sqstat/. 
 
-
-    What's new
-    ==========
+<!-- What's new -->
+## What's new
 
 For a complete list of changes, see the CHANGES file. 
 
-
-    System requirements
-    ===================
+<!-- System requirements -->
+ ## System requirements
 
 # PHP (you need PHP 4.1.0 or newer) with installed "pcre" extension
 # Squid proxy server
 # a web-browser (doh!)
 # (optional) PHP session extension if you want to see current/average CPS
 
-
-    Installation
-    ============    
+<!-- Installation -->
+## Installation
 
    1. Unpack the distribution in your webserver's document root.
    2. Copy file config.inc.php.defaults to config.inc.php, edit config.inc.php
@@ -40,9 +43,8 @@ For a complete list of changes, see the CHANGES file.
       "hosts" like file with ip->name pairs.
    
 
-
-    Bug reports
-    ===========
+<!-- Bug reports -->
+## Bug reports
 
 If you have found what you believe to be a bug, you can send a bug
 report to samm [at] os2.kiev.ua. Please, read FAQ before reporting.
