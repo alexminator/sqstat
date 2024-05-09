@@ -50,5 +50,5 @@ If you have found what you believe to be a bug, you can send a bug
 report to samm [at] os2.kiev.ua. Please, read FAQ before reporting.
 
 <h1 align="center">
-  <img alt="SqStat logo" src="https://github.com/alexminator/sqstat/blob/main/docs/sqstat.jpg" width="300px"/><br/>
+  <img alt="SqStat logo" src="https://github.com/alexminator/sqstat/blob/main/docs/sqstat.jpg" width="800px"/><br/>
 </h1>
