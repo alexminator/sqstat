@@ -31,18 +31,12 @@ For a complete list of changes, see the CHANGES file.
    2. Copy file config.inc.php.defaults to config.inc.php, edit config.inc.php
       to specify your squid proxy server IP and port.
    3. Edit your squid.conf to allow cachemgr protocol:
-
-      * `acl manager proto cache_object
+     
+      acl manager proto cache_object
       # replace 10.0.0.1 with your webserver IP
       acl webserver src 10.0.0.1/255.255.255.255
       http_access allow manager webserver
-      http_access deny manager` establecer la cantidad de leds que tiene la tira usada.
-
-    *`acl manager proto cache_object
-      # replace 10.0.0.1 with your webserver IP
-      acl webserver src 10.0.0.1/255.255.255.255
-      http_access allow manager webserver
-      http_access deny manager`
+      http_access deny manager
 
    4. Point your browser to sqstat.php file and see what happens :)
    5. (optionally) enable ip resolving in config.inc.php. Also you can make 
