@@ -19,10 +19,10 @@ For a complete list of changes, see the CHANGES file.
 <!-- System requirements -->
  ## System requirements
 
-# PHP (you need PHP 4.1.0 or newer) with installed "pcre" extension
-# Squid proxy server
-# a web-browser (doh!)
-# (optional) PHP session extension if you want to see current/average CPS
+- **_PHP (you need PHP 4.1.0 or newer) with installed "pcre" extension._**
+- **_Squid proxy server._**
+- **_a web-browser (doh!)._**
+- **_(optional) PHP session extension if you want to see current/average CPS._**
 
 <!-- Installation -->
 ## Installation
