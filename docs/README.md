@@ -32,7 +32,7 @@ For a complete list of changes, see the CHANGES file.
       to specify your squid proxy server IP and port.
    3. Edit your squid.conf to allow cachemgr protocol:
 
-    * `acl manager proto cache_object
+    *`acl manager proto cache_object
       # replace 10.0.0.1 with your webserver IP
       acl webserver src 10.0.0.1/255.255.255.255
       http_access allow manager webserver
